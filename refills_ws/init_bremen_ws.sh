@@ -23,7 +23,7 @@ esac
 
 git clone --branch throw_ex ${proto}marcocostanzo/robotics_toolbox_ros.git
 
-git clone --branch master ${proto}marcocostanzo/ros_toon.git
+git clone --branch TOON_3.2 ${proto}marcocostanzo/ros_toon.git
 
 git clone --branch bremen ${proto}marcocostanzo/slipping_control.git
 
