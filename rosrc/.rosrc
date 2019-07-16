@@ -43,6 +43,9 @@ function set_ros_ws() {
 #cd in the current ws
 alias cdcatkin='cd $ros_ws'
 
+#Reset ros ws
+alias source_ros='source /opt/ros/$ROS_DISTRO/setup.bash'
+
 #build with tag release
 alias catkin_build_release='catkin build -DCMAKE_BUILD_TYPE=Release'
 
