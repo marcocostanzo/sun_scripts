@@ -1,4 +1,8 @@
 - git:
+    local-name: giskard_donbot_finger_hack
+    uri: https://github.com/marcocostanzo/giskard_donbot_finger_hack.git
+    version: master
+- git:
     local-name: ros_toon
     uri: https://github.com/marcocostanzo/ros_toon.git
     version: TOON_3.2
