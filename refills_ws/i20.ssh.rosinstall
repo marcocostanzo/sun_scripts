@@ -1,0 +1,60 @@
+- git:
+    local-name: exp_piv20
+    uri: git@github.com:marcocostanzo/exp_piv20.git
+    version: gaetano
+- git:
+    local-name: giskard_donbot_finger_hack
+    uri: git@github.com:marcocostanzo/giskard_donbot_finger_hack.git
+    version: master
+- git:
+    local-name: iiwa_stack
+    uri: git@github.com:gaetanolettera/iiwa_stack.git
+    version: master
+- git:
+    local-name: robotics_toolbox_ros
+    uri: git@github.com:marcocostanzo/robotics_toolbox_ros.git
+    version: master
+- git:
+    local-name: ros_toon
+    uri: git@github.com:marcocostanzo/ros_toon.git
+    version: TOON_3.2
+- git:
+    local-name: slipping_control
+    uri: git@github.com:marcocostanzo/slipping_control.git
+    version: 1dof_obs
+- git:
+    local-name: sun_helper_lib
+    uri: git@github.com:marcocostanzo/sun_helper_lib.git
+    version: master
+- git:
+    local-name: sun_learning_lib
+    uri: git@github.com:marcocostanzo/sun_learning_lib.git
+    version: new_ANN
+- git:
+    local-name: sun_piv_planner
+    uri: git@github.com:gaetanolettera/sun_piv_planner.git
+    version: master
+- git:
+    local-name: sun_robot_lib
+    uri: git@github.com:marcocostanzo/sun_robot_lib.git
+    version: master
+- git:
+    local-name: sun_ros_msgs
+    uri: git@github.com:marcocostanzo/sun_ros_msgs.git
+    version: master
+- git:
+    local-name: sun_ros_utils_nodes
+    uri: git@github.com:marcocostanzo/sun_ros_utils_nodes.git
+    version: system_lib_V2
+- git:
+    local-name: sun_systems_lib
+    uri: git@github.com:marcocostanzo/sun_systems_lib.git
+    version: V2
+- git:
+    local-name: sun_tactile_sensor
+    uri: git@github.com:marcocostanzo/tactile_sensor_ros.git
+    version: system_lib_V2
+- git:
+    local-name: sun_wsg50_ros
+    uri: git@github.com:marcocostanzo/sun_wsg50_ros.git
+    version: bremen
